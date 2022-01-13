@@ -1,6 +1,6 @@
 # SimpleCred
 
-IMPORTANT NOTE: you're able to place skin over the taskbar, but do not call unput function while it's under it - it'll lead you to "Refresh All" in Rainmeter's tray menu. 
+IMPORTANT NOTE: you're able to place skin over the taskbar, but do not call an input function while it's under this - it'll lead you to "Refresh All" in Rainmeter's tray menu. 
 
 Hey there! This is a simple tool for credential management. Simply animated it's allow you to save up to 3 most usable credential pairs for quick access. 
 
